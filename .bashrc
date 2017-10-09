@@ -1,5 +1,5 @@
 alias bc='bc -lq ~/*.bc'
-alias bvets='cocot /cygdrive/c/Users/xxxx/Documents/BveTs/BveTs.exe'
+alias bvets='cocot /cygdrive/c/Users/hakehash/Documents/BveTs/BveTs.exe'
 alias display='~/iview441_x64/i_view64.exe'
 alias eliza='clisp ~/elizagen/coselleliza1969and1972.lisp'
 alias gnuplot='console gnuplot'
